@@ -18,7 +18,7 @@ There are two methods used to compute beta.
 In theory, both betas should be the same.
 
 ## Usage ##
-This is an interactive web application developed with streamlit. [Streamlit app](https://finance-analysis-j22zwkeeepzxpym9ej9smg.streamlit.app/)
+This is an interactive web application developed with streamlit. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finance-analysis-j22zwkeeepzxpym9ej9smg.streamlit.app/)
 
 1. Type any ticker available on the yahoo finance. The default is 'AAPL'.
 2. Select market index among US three major indices. Currently, only US indices are listed. It may be expanded in future.
