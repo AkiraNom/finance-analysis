@@ -7,8 +7,8 @@ import plotly.graph_objects as go
 
 st.set_page_config(
     page_title='Beta estimation',
-    layout='wide',
-    initial_sidebar_state='auto',
+    # layout='wide',
+    # initial_sidebar_state='auto',
 )
 
 st.title(r'Beta ($\beta$) estimation')
