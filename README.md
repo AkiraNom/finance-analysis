@@ -1,4 +1,4 @@
-# Stock and Index Beta Calculator #
+# Security Beta Calculator #
 Python script that calculates the beta (β) of a stock against the market index. The script retrieves the stock and index price data from yahoo finance. The beta is calculated by using both covariance/variance method and ordinary least square method.
 
 
